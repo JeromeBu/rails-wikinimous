@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # markdown
 gem 'kramdown'
 
+# gestionnaire de sessions
+gem 'bcrypt'
+
 # faker
 gem 'faker'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
