@@ -1,0 +1,28 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #2F52A2FF;
+  text-align: center;
+}
+
+
+li {
+  background-color: lightgrey;
+  margin: 5px;
+  padding: 5px;
+  list-style: none;
+  border-radius: 10px;
+  box-shadow: 2px 2px grey;
+}
+
+span a {
+  text-decoration : none;
+  color: black;
+
+}
